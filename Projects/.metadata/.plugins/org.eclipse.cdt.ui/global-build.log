@@ -14,3 +14,6 @@ Generate listing file done
 Generate build reports done
 arm-atollic-eabi-objcopy.exe -O ihex LED_blink.elf LED_blink.hex 
 Info: Nothing to build for LED_blink
+Info: Nothing to build for LED_blink
+Info: Nothing to build for LED_blink
+Info: Nothing to build for LED_blink
